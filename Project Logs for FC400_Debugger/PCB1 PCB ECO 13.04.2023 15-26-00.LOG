@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetR36_2 Pin=SW1-1
+Change Component Designator: OldDesignator=XS? NewDesignator=XS2
+Added Component: Designator=J1(RES_0805_(2x1.2x0.45)_0.125Вт)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR36_2 Pin=J1-2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R38-1
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Sheet2 Member=Component J1 0805

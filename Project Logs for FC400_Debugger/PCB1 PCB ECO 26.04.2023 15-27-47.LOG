@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3V Pin=SW1-1
+Removed Pin From Net: NetName=+5 Pin=SW1-2
+Removed Pin From Net: NetName=AIN Pin=SW1-4
+Added Pin To Net: NetName=AIN Pin=SW1-1
+Added Pin To Net: NetName=+5 Pin=SW1-3
+Added Pin To Net: NetName=+3V Pin=SW1-4
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=XP3-9
+Added Pin To Net: NetName=NetSW1_2 Pin=XP3-10
+Added Net: Name=NetSW1_2

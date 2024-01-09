@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5 Pin=SW1-4
+Removed Pin From Net: NetName=AIN Pin=SW1-8
+Change Component Footprint: Designator=SW1 Old Footprint=L_KLS7_4pin New Footprint=SW_DS1040_2pin
+Change Component Comment : Designator=SW1 Old Comment=SW_4_pin New Comment=SW_2_pin
+Change component parameters: Designator = "SW1"; Footprint = "SW_DS1040_2pin"; UniqueID = "\LXISBLWZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "DS1040-02RN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=SW1-2
+Added Pin To Net: NetName=AIN Pin=SW1-4
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_3 Pin=XP3-9
+Added Pin To Net: NetName=NetSW1_3 Pin=XP3-10
+Added Net: Name=NetSW1_3

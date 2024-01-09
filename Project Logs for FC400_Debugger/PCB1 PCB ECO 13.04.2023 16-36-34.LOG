@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=DD3 Old Footprint=SOP-8 New Footprint=SOP-8
+Change Physical Footprint: Designator=G2 Old Footprint=AM1S-Z New Footprint=AM1S-Z
+Change Physical Footprint: Designator=L5 Old Footprint=L_SRN3015 New Footprint=L_SRN3015
+Change Physical Footprint: Designator=R38 Old Footprint=RES_2512_(6.3x3.1x0.6)_2Âò New Footprint=RES_2512_(6.3x3.1x0.6)_2Âò
+Change Physical Footprint: Designator=SW1 Old Footprint=L_KLS7_4pin New Footprint=L_KLS7_4pin
+Change Physical Footprint: Designator=VD19 Old Footprint=SOT-323-3L New Footprint=SOT-323-3L
+Change Physical Footprint: Designator=XP3 Old Footprint=XP_5x2_PIN_H New Footprint=XP_5x2_PIN_H
+Change Physical Footprint: Designator=XS1 Old Footprint=XS_USBB New Footprint=XS_USBB
+Change Physical Footprint: Designator=XS2 Old Footprint=XS_KLS-2.54-03P New Footprint=XS_KLS-2.54-03P

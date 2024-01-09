@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SWDIO Pin=DD2-27
+Removed Pin From Net: NetName=SWDIO Pin=R29-2
+Added Pin To Net: NetName=SWDIO Pin=DD2-25
+Added Pin To Net: NetName=SWDIO Pin=R29-1
+Added Pin To Net: NetName=NetDD2_27 Pin=DD2-27
+Added Pin To Net: NetName=NetDD2_27 Pin=R29-2
+Added Net: Name=NetDD2_27

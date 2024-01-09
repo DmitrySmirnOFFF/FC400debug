@@ -1,0 +1,15 @@
+Added Component: Designator=SW1(L_KLS7_4pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "L-KLS7-DST-04-B-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V Pin=SW1-1
+Added Pin To Net: NetName=+5 Pin=SW1-4
+Added Pin To Net: NetName=NetSW1_5 Pin=SW1-5
+Added Pin To Net: NetName=AIN Pin=SW1-8
+Added Member To Class: ClassName=Sheet2 Member=Component SW1 SW_4_pin

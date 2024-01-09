@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3V Pin=C42-1
+Removed Pin From Net: NetName=GND1 Pin=C42-2
+Removed Member From Class: ClassName=Sheet2 Member=C42
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(183, 227, 111)
+Added Member To Class: ClassName=Sheet2 Member=Component BQ2 8Mhz
