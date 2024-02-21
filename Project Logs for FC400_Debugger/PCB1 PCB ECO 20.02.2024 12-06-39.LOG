@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AIN Pin=R40-2
+Removed Pin From Net: NetName=AIN Pin=SW1-1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=SW1-1
+Added Net: Name=NetR40_2
